@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**marensajdaras/marensajdaras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
@@ -12,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Github and Linkedin
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a funny guy 
--->
