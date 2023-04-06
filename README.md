@@ -9,3 +9,5 @@
 - 📫 How to reach me: Github and Linkedin
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a funny guy 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marensajdaras&theme=dark&background=000000)](https://git.io/streak-stats)
